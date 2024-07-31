@@ -1,1 +1,7 @@
 # Hare-and-Tortoise-Race-Story
+
+The project reimagines the classic tale of the hare and tortoise through an interactive OpenGL simulator. Drawing from traditional storytelling and modern graphics, the team aims for an engaging user experience. Utilizing OpenGL primitives, have designed a visually appealing race track, complemented by meticulously crafted landscapes. Employing skeletal and vertex animation, the characters move with various messages being printed throughout the display. At the end of the story, moral of the story is also displayed. Users can start the race and enjoy a smooth, immersive experience. This project harmonizes storytelling, graphic design, and technical expertise, offering a compelling simulation of the timeless fable.
+
+In this project, users will witness the contrasting behaviors of the hare and tortoise as they navigate through a designed racing track environment. Through the use of OpenGL rendering techniques, the characters are brought to life with geometric shapes and animations. Users can interact with the project by triggering different stages of the story using keyboard commands, allowing them to explore the unfolding race and understand the moral lesson embedded in the fable.
+
+Overall, the "Hare and Tortoise" project serves as an educational and entertaining showcase of how computer graphics can be utilized to depict narratives and convey moral messages through interactive visual storytelling.
